@@ -1,6 +1,6 @@
 ---
 title: "WooCommerce 102"
-date: 2025-04-29
+date: 2025-04-30
 draft: false
 description: "Explore the power of our trending software with premium features and best pricing plans."
 ---
