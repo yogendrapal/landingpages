@@ -1,4 +1,4 @@
-baseURL = 'https://learnbywatch.com/landing'
+baseURL = 'https://learnbywatch.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-universal-theme'
