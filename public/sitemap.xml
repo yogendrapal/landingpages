@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://learnbywatch.com/landing/</loc><lastmod>2025-04-29T00:00:00+00:00</lastmod></url><url><loc>https://learnbywatch.com/landing/woocommerce102/</loc><lastmod>2025-04-29T00:00:00+00:00</lastmod></url><url><loc>https://learnbywatch.com/landing/categories/</loc></url><url><loc>https://learnbywatch.com/landing/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/landing/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/landing/woocommerce102/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/landing/woocommerce101/</loc>
+    <lastmod>2025-04-28T09:00:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/landing/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/landing/tags/</loc>
+  </url>
+</urlset>

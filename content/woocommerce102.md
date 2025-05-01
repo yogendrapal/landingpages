@@ -4,7 +4,7 @@ date: 2025-04-29
 draft: false
 description: "Explore the power of our trending software with premium features and best pricing plans."
 ---
-<div class="banner-style-six-area text-light bg-cover" style="background-image: url(/landing/img/shape/banner-4.jpg);">
+<div class="banner-style-six-area text-light bg-cover" style="background-image: url(/img/shape/banner-4.jpg);">
     <div class="banner-style-six">
         <div class="container">
             <div class="content">
@@ -25,8 +25,8 @@ description: "Explore the power of our trending software with premium features a
                     </div>
                     <div class="col-xl-6 col-lg-5 pl-60 pl-md-15 pl-xs-15">
                         <div class="thumb">
-                            <img src="/landing/img/dashboard/1.jpg" alt="Thumb">
-                            <img src="/landing/img/dashboard/2.jpg" alt="Thumb">
+                            <img src="/img/dashboard/1.jpg" alt="Thumb">
+                            <img src="/img/dashboard/2.jpg" alt="Thumb">
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ description: "Explore the power of our trending software with premium features a
                 <div class="feature-style-five-grid">
                     <div class="feature-style-five">
                         <div class="thumb">
-                            <img src="/landing/img/icon/12.png" alt="Image Not Found">
+                            <img src="/img/icon/12.png" alt="Image Not Found">
                         </div>
                         <h3>Ticket Manage</h3>
                         <p>
@@ -60,7 +60,7 @@ description: "Explore the power of our trending software with premium features a
                     </div>
                     <div class="feature-style-five">
                         <div class="thumb">
-                            <img src="/landing/img/icon/13.png" alt="Image Not Found">
+                            <img src="/img/icon/13.png" alt="Image Not Found">
                         </div>
                         <h4>Live Messaging</h4>
                         <p>
@@ -69,7 +69,7 @@ description: "Explore the power of our trending software with premium features a
                     </div>
                     <div class="feature-style-five">
                         <div class="thumb">
-                            <img src="/landing/img/icon/14.png" alt="Image Not Found">
+                            <img src="/img/icon/14.png" alt="Image Not Found">
                         </div>
                         <h4>Email Workflow</h4>
                         <p>
@@ -121,10 +121,10 @@ description: "Explore the power of our trending software with premium features a
         <div class="row align-center">
             <div class="col-lg-6">
                 <div class="about-style-six-thumb">
-                    <img src="/landing/img/dashboard/3.jpg" alt="Image not Found">
-                    <img src="/landing/img/illustration/12.png" alt="Image not Found">
+                    <img src="/img/dashboard/3.jpg" alt="Image not Found">
+                    <img src="/img/illustration/12.png" alt="Image not Found">
                     <div class="shape">
-                        <img src="/landing/img/dashboard/1.png" alt="Image Not found">
+                        <img src="/img/dashboard/1.png" alt="Image Not found">
                     </div>
                 </div>
             </div>
@@ -144,7 +144,7 @@ description: "Explore the power of our trending software with premium features a
         </div>
     </div>
 </div>
-<div class="software-overview-area default-padding bg-dark secondary text-light bg-cover" style="background-image: url(/landing/img/shape/banner-1.png);">
+<div class="software-overview-area default-padding bg-dark secondary text-light bg-cover" style="background-image: url(/img/shape/banner-1.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
@@ -177,7 +177,7 @@ description: "Explore the power of our trending software with premium features a
                 <div class="tab-content software-tab-content" id="nav-tabContent">
                     <div class="tab-pane fade" id="tab1" role="tabpanel" aria-labelledby="nav-id-1">
                         <div class="soft-overview">
-                            <img src="/landing/img/dashboard/4.jpg" alt="Image not found">
+                            <img src="/img/dashboard/4.jpg" alt="Image not found">
                             <div class="overlay">
                                 <h3>Collaboration with customers</h3>
                                 <p>
@@ -189,7 +189,7 @@ description: "Explore the power of our trending software with premium features a
                     </div>
                     <div class="tab-pane fade show active" id="tab2" role="tabpanel" aria-labelledby="nav-id-2">
                         <div class="soft-overview">
-                            <img src="/landing/img/dashboard/5.jpg" alt="Image not found">
+                            <img src="/img/dashboard/5.jpg" alt="Image not found">
                             <div class="overlay">
                                 <h3>Software Design & Technology Prepare</h3>
                                 <p>
@@ -201,7 +201,7 @@ description: "Explore the power of our trending software with premium features a
                     </div>
                     <div class="tab-pane fade" id="tab3" role="tabpanel" aria-labelledby="nav-id-3">
                         <div class="soft-overview">
-                            <img src="/landing/img/dashboard/6.jpg" alt="Image not found">
+                            <img src="/img/dashboard/6.jpg" alt="Image not found">
                             <div class="overlay">
                                 <h3>Final Customization for the product launch</h3>
                                 <p>
@@ -231,7 +231,7 @@ description: "Explore the power of our trending software with premium features a
     <div class="container">
         <div class="row">
             <div class="col-xl-3 col-md-6 mb-30">
-                <div class="pricing-style-one" style="background-image: url(/landing/img/shape/15.webp);">
+                <div class="pricing-style-one" style="background-image: url(/img/shape/15.webp);">
                     <div class="pricing-header">
                         <h4>Basic Plan</h4>
                         <p>
@@ -252,7 +252,7 @@ description: "Explore the power of our trending software with premium features a
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 mb-30">
-                <div class="pricing-style-one" style="background-image: url(/landing/img/shape/15.webp);">
+                <div class="pricing-style-one" style="background-image: url(/img/shape/15.webp);">
                     <div class="pricing-header">
                         <h4>Premium Plan</h4>
                         <p>
@@ -273,10 +273,10 @@ description: "Explore the power of our trending software with premium features a
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 mb-30">
-                <div class="pricing-style-one active" style="background-image: url(/landing/img/shape/15.webp);">
+                <div class="pricing-style-one active" style="background-image: url(/img/shape/15.webp);">
                     <div class="pricing-badge">
                         <h5>Most Popular</h5>
-                        <img src="/landing/img/shape/arrow.png" alt="Image Not Found">
+                        <img src="/img/shape/arrow.png" alt="Image Not Found">
                     </div>
                     <div class="pricing-header">
                         <h4>Advanced Plan</h4>
@@ -298,7 +298,7 @@ description: "Explore the power of our trending software with premium features a
                 </div>
             </div>
             <div class="col-xl-3 col-md-6 mb-30">
-                <div class="pricing-style-one" style="background-image: url(/landing/img/shape/15.webp);">
+                <div class="pricing-style-one" style="background-image: url(/img/shape/15.webp);">
                     <div class="pricing-header">
                         <h4>Business Plan</h4>
                         <p>
@@ -328,7 +328,7 @@ description: "Explore the power of our trending software with premium features a
         <div class="row">
             <div class="col-lg-12">
                 <div class="software-video-preview bg-cover">
-                    <div class="video-bg-live" style="background-image: url(/landing/img/2440x1578.png);">
+                    <div class="video-bg-live" style="background-image: url(/img/2440x1578.png);">
                         <div class="shadow-overlay"></div>
                         <div class="player" data-property="{videoURL:'ux4wGE2_jO4',containment:'.video-bg-live', showControls:false, autoPlay:true, zoom:0, loop:true, mute:true, startAt:0, stopAt:25, opacity:1, quality:'default'}"></div>
                         <a href="https://www.youtube.com/watch?v=ux4wGE2_jO4" class="popup-youtube video-play-button">
@@ -347,9 +347,9 @@ description: "Explore the power of our trending software with premium features a
             <div class="col-lg-4">
                 <div class="testimonial-thumb">
                     <div class="thumb-item">
-                        <img src="/landing/img/illustration/5.png" alt="illustration">
+                        <img src="/img/illustration/5.png" alt="illustration">
                         <div class="mini-shape">
-                            <img src="/landing/img/shape/19-blue.png" alt="illustration">
+                            <img src="/img/shape/19-blue.png" alt="illustration">
                         </div>
                     </div>
                 </div>
@@ -418,8 +418,8 @@ description: "Explore the power of our trending software with premium features a
 <!--## About Area-->
 <div class="about-style-one-area default-padding">
     <div class="shape-animated-left">
-        <img src="/landing/img/shape/anim-1.png" alt="Image Not Found">
-        <img src="/landing/img/shape/anim-2.png" alt="Image Not Found">
+        <img src="/img/shape/anim-1.png" alt="Image Not Found">
+        <img src="/img/shape/anim-2.png" alt="Image Not Found">
     </div>
     <div class="container">
         <div class="row align-center">
@@ -435,13 +435,13 @@ description: "Explore the power of our trending software with premium features a
                         <span>CEO & Founder</span>
                     </div>
                     <div class="right-info">
-                        <img src="/landing/img/signature.png" alt="Image Not Found">
+                        <img src="/img/signature.png" alt="Image Not Found">
                     </div>
                 </div>
             </div>
             <div class="about-style-one col-xl-5 offset-xl-1 col-lg-6 offset-lg-1">
                 <div class="about-thumb">
-                    <img class="wow fadeInRight" src="/landing/img/800x900.png" alt="Image Not Found">
+                    <img class="wow fadeInRight" src="/img/800x900.png" alt="Image Not Found">
                     <div class="about-card wow fadeInUp" data-wow-delay="500ms">
                         <ul>
                             <li>
@@ -471,8 +471,8 @@ description: "Explore the power of our trending software with premium features a
                         </ul>
                     </div>
                     <div class="thumb-shape-bottom wow fadeInDown" data-wow-delay="300ms">
-                        <img src="/landing/img/shape/anim-3.png" alt="Image Not Found">
-                        <img src="/landing/img/shape/anim-4.png" alt="Image Not Found">
+                        <img src="/img/shape/anim-3.png" alt="Image Not Found">
+                        <img src="/img/shape/anim-4.png" alt="Image Not Found">
                     </div>
                 </div>
             </div>
@@ -481,7 +481,7 @@ description: "Explore the power of our trending software with premium features a
 </div>
 <div class="contact-style-one-area overflow-hidden secondary default-padding">
     <div class="contact-shape">
-        <img src="/landing/img/shape/37.png" alt="Image Not Found">
+        <img src="/img/shape/37.png" alt="Image Not Found">
     </div>
     <div class="container">
         <div class="row align-center">
